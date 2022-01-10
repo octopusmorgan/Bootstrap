@@ -1,0 +1,7 @@
+body{
+position: relative;
+}
+
+div.col-sm{
+    padding-bottom: 15px;
+}
